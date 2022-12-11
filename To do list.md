@@ -1,5 +1,5 @@
 # Pipettes:
-Add pipette type (20-200, 100-1000) to it using Curves Workbench
+Add pipette type mark (20-200, 100-1000) to it using Curves Workbench
 
 
 # Full protocol (MTT)
