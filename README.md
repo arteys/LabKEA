@@ -7,7 +7,7 @@ A set of vector pictures made in IKEA-instruction-style, dedicated to basic labo
 
 ## Dishes
 
-![35 mm dishes](https://github.com/arteys/LabKEA/blob/main/Thumbnail%20Images/35%20mm%20dishes.png?raw=true)
+![35 mm dishes](https://github.com/arteys/LabKEA/blob/main/Thumbnail%20Images/35%20mm%20dishes%20v2.png?raw=true)
 
 ## Flasks
 
