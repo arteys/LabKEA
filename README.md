@@ -19,7 +19,7 @@ A set of vector pictures made in IKEA-instruction-style, dedicated to basic labo
 
 ## Plates
 
-![Plates 96 24](https://github.com/arteys/LabKEA/blob/main/Thumbnail%20Images/96%20and%2024%20plates.png?raw=true)
+![Plates 96 24 6](https://github.com/arteys/LabKEA/blob/main/Thumbnail%20Images/96,24,6%20plates.png?raw=true)
 
 ## Trays for multichannel pipteets
 
